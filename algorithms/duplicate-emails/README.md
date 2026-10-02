@@ -1,0 +1,19 @@
+# Duplicate Emails
+
+**Difficulty:** 🟢 **Easy**  
+**LeetCode Link:** [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)
+
+---
+
+## Solutions
+
+### 🗄️ MySQL (`solution.sql`)
+
+- **Synchronized:** October 2, 2026
+- **Language:** `MySQL`
+- **Source File:** [`solution.sql`](solution.sql)
+
+#### ⏱️ Complexity Analysis
+
+> Time: Not provided  
+> Space: Not provided
